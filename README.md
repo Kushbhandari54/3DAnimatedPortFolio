@@ -1,1 +1,4 @@
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+sketchfab.com // For Downloading 3D images
+
+"gltf-pipeline": "^4.1.0" // for converting into glb
+gltf-pipeline -i model.gltf -b
